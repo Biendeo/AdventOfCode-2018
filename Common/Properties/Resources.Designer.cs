@@ -61,33 +61,6 @@ namespace Common.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to icxjubroqtunzeyzpomfksahgw
-        ///ibxjvbroqtunleyzjdmfksahow
-        ///icxjvbroqtinleyzpdmflsahnw
-        ///icxjvbnoqtunleyvpgmfksahgw
-        ///wcxjvbroqrunleyzpdmfksahge
-        ///icxjtbroqtjzleyzpdmfksahgw
-        ///icxjvbrohtunleyzpdmfkbahsw
-        ///xcxjvbroqcunleyzpdmfksaxgw
-        ///ycxjvbroqtunleyzpowfksahgw
-        ///icxfvbroqtunleyzpdmfksncgw
-        ///ixxjvbuoqtunleyzpdvfksahgw
-        ///icfjvbroqtunleyzpdmfksadgt
-        ///icxjvbroqdunleyzpdafksqhgw
-        ///icxjvbrobtunlelzpdmfkuahgs
-        ///ujxjvbroqtunleyzpdmqksahgw
-        ///icqjvsroqtunleyzpdmfksahuw
-        ///icxjvbroptpnleyzpdmfksangw
-        ///ipxjvbroqtunleyzpdmfesahgi
-        ///icajvbro [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string day2 {
-            get {
-                return ResourceManager.GetString("day2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to -1
         ///-7
         ///-5
@@ -233,6 +206,38 @@ namespace Common.Properties {
         public static string Input_Day2 {
             get {
                 return ResourceManager.GetString("Input_Day2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to #1 @ 661,227: 29x11
+        ///#2 @ 391,45: 27x20
+        ///#3 @ 467,241: 23x12
+        ///#4 @ 120,334: 18x28
+        ///#5 @ 671,406: 28x16
+        ///#6 @ 422,790: 23x12
+        ///#7 @ 321,868: 13x17
+        ///#8 @ 509,931: 11x20
+        ///#9 @ 362,833: 26x20
+        ///#10 @ 968,503: 27x16
+        ///#11 @ 479,146: 26x25
+        ///#12 @ 269,129: 25x14
+        ///#13 @ 78,880: 25x17
+        ///#14 @ 141,545: 11x16
+        ///#15 @ 765,139: 21x29
+        ///#16 @ 609,202: 13x16
+        ///#17 @ 582,471: 22x21
+        ///#18 @ 587,65: 10x17
+        ///#19 @ 979,416: 18x23
+        ///#20 @ 904,488: 16x26
+        ///#21 @ 601,930: 12x23
+        ///#22 @ 561,647: 24x26
+        ///#23 @ 814,263: 18x27
+        ///#24 @ 576,362: 20x [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Input_Day3 {
+            get {
+                return ResourceManager.GetString("Input_Day3", resourceCulture);
             }
         }
     }
