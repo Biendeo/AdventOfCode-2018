@@ -240,5 +240,27 @@ namespace Common.Properties {
                 return ResourceManager.GetString("Input_Day3", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to [1518-03-19 00:02] Guard #647 begins shift
+        ///[1518-03-23 00:04] Guard #2267 begins shift
+        ///[1518-11-04 00:24] falls asleep
+        ///[1518-09-17 00:04] Guard #509 begins shift
+        ///[1518-09-24 00:30] falls asleep
+        ///[1518-09-11 00:13] falls asleep
+        ///[1518-05-24 00:29] falls asleep
+        ///[1518-04-23 00:03] Guard #647 begins shift
+        ///[1518-03-02 00:56] falls asleep
+        ///[1518-06-03 00:17] falls asleep
+        ///[1518-05-07 00:26] wakes up
+        ///[1518-09-01 00:30] falls asleep
+        ///[1518-03-22 00:52] falls asleep
+        ///[1518-03-28 00:04] Guard #2011 begins shif [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Input_Day4 {
+            get {
+                return ResourceManager.GetString("Input_Day4", resourceCulture);
+            }
+        }
     }
 }
