@@ -12,8 +12,8 @@ namespace Common.Day3 {
 	/// </summary>
 	public class NMHYSI {
 		private List<Claim> claims;
-		private int width = 0;
-		private int height = 0;
+		private readonly int width = 0;
+		private readonly int height = 0;
 
 		public NMHYSI() {
 			// This one requires a bit more work than the previous question. Each line stores a
