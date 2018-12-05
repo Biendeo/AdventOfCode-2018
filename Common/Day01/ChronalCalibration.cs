@@ -15,7 +15,7 @@ namespace Common.Day01 {
 		public ChronalCalibration() {
 			// To initialize the object, we'll simply read in each line and store it as an int.
 			values = new List<int>();
-			string input = Resources.Input_Day1;
+			string input = Resources.Input_Day01;
 			using (var reader = new StringReader(input)) {
 				string line;
 				while ((line = reader.ReadLine()) != null) {

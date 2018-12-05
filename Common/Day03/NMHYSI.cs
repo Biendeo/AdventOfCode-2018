@@ -25,7 +25,7 @@ namespace Common.Day03 {
 			// left margin plus its width, and its top margin plus its height). By the end of
 			// scanning the input, we know all the input, and how much fabric is then needed.
 			claims = new List<Claim>();
-			string input = Resources.Input_Day3;
+			string input = Resources.Input_Day03;
 			using (var reader = new StringReader(input)) {
 				string line;
 				while ((line = reader.ReadLine()) != null) {

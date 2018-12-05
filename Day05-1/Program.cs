@@ -1,12 +1,11 @@
-﻿// using Common.Day05;
+﻿using Common.Day05;
 using System;
 
 namespace Day05_1 {
 	class Program {
 		static void Main(string[] args) {
-			// Uncomment when task done.
-			// var aoc = new Something();
-			// Console.WriteLine(aoc.Part1());
+			var aoc = new AlchemicalReduction();
+			Console.WriteLine(aoc.Part1());
 		}
 	}
 }

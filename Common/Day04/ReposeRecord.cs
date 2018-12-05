@@ -13,7 +13,7 @@ namespace Common.Day04 {
 			// DateTime (in the form of YYYY-MM-DD hh:mm), and the rest can be determined simply
 			// by matching the key words of the message.
 			var records = new List<Record>();
-			string input = Resources.Input_Day4;
+			string input = Resources.Input_Day04;
 			using (var reader = new StringReader(input)) {
 				string line;
 				while ((line = reader.ReadLine()) != null) {

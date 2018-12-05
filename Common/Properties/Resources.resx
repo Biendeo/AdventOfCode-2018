@@ -118,16 +118,79 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Input_Day1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\day1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="Input_Day01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day01.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="Input_Day2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\day2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  <data name="Input_Day02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day02.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="Input_Day3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\day3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  <data name="Input_Day03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day03.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="Input_Day4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\day4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  <data name="Input_Day04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day04.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day05.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day06.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day07.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day08.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day09.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Input_Day25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\day25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>

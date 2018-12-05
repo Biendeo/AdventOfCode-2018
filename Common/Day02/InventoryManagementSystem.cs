@@ -18,7 +18,7 @@ namespace Common.Day02 {
 			// To initialize the object, simply load the input in as a list of strings. No other
 			// input is necessary. The input is a list of 250 26-character strings of letters.
 			values = new List<string>();
-			string input = Resources.Input_Day2;
+			string input = Resources.Input_Day02;
 			using (var reader = new StringReader(input)) {
 				string line;
 				while ((line = reader.ReadLine()) != null) {

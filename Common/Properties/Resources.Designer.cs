@@ -176,9 +176,9 @@ namespace Common.Properties {
         ///+16
         /// [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string Input_Day1 {
+        public static string Input_Day01 {
             get {
-                return ResourceManager.GetString("Input_Day1", resourceCulture);
+                return ResourceManager.GetString("Input_Day01", resourceCulture);
             }
         }
         
@@ -203,9 +203,9 @@ namespace Common.Properties {
         ///ipxjvbroqtunleyzpdmfesahgi
         ///icajvbro [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string Input_Day2 {
+        public static string Input_Day02 {
             get {
-                return ResourceManager.GetString("Input_Day2", resourceCulture);
+                return ResourceManager.GetString("Input_Day02", resourceCulture);
             }
         }
         
@@ -235,9 +235,9 @@ namespace Common.Properties {
         ///#23 @ 814,263: 18x27
         ///#24 @ 576,362: 20x [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string Input_Day3 {
+        public static string Input_Day03 {
             get {
-                return ResourceManager.GetString("Input_Day3", resourceCulture);
+                return ResourceManager.GetString("Input_Day03", resourceCulture);
             }
         }
         
@@ -257,9 +257,198 @@ namespace Common.Properties {
         ///[1518-03-22 00:52] falls asleep
         ///[1518-03-28 00:04] Guard #2011 begins shif [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string Input_Day4 {
+        public static string Input_Day04 {
             get {
-                return ResourceManager.GetString("Input_Day4", resourceCulture);
+                return ResourceManager.GetString("Input_Day04", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LlspxXPjJMmBbVvyYNnzLlZFfSTtULRlLrTtbBlaAJjqQUuXxQnWwNqIiDiIdRIWwQqirWQqwfFlLiIeYyEJiIjjPHhpStTsJVTtvtjbBjuUJJZUuZzGgOoHhUumMYyoOBboVHZzhvsKkSspPZzFfTtScCOzkKfUxXLluLlRrFTyYSstuUJVvLljJjTqQCxXjJxVvCcwWVvXzJjyFfYleEUuAORroamMLRMmOorKkSNnsXxvVJjZOohHeELGglVGkKJjgvciIMeEvQqVmVvHgGKkhwWdDMmwbBrRrRWjrRJSCcoOPpkKepPjJEswaAfFVvWwfFpnNoDdOPpqVvFfHJJjjzZCmMvwWXxJjzkmMKZQqPzyYZHhKkAFfapgOoBbFAVvatTfGCyYTtcgGLlEerRFHhfIbVvBbBiFfNSsnDDddNnnfFjJtjJkKRrTNRxTtXTtQqRTtnfFNAarRrqQIjJiuUsSgZGglLzYiIyGiIGgcxXCrrRRrVEyYtTzlLZe [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Input_Day05 {
+            get {
+                return ResourceManager.GetString("Input_Day05", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day06 {
+            get {
+                return ResourceManager.GetString("Input_Day06", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day07 {
+            get {
+                return ResourceManager.GetString("Input_Day07", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day08 {
+            get {
+                return ResourceManager.GetString("Input_Day08", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day09 {
+            get {
+                return ResourceManager.GetString("Input_Day09", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day10 {
+            get {
+                return ResourceManager.GetString("Input_Day10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day11 {
+            get {
+                return ResourceManager.GetString("Input_Day11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day12 {
+            get {
+                return ResourceManager.GetString("Input_Day12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day13 {
+            get {
+                return ResourceManager.GetString("Input_Day13", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day14 {
+            get {
+                return ResourceManager.GetString("Input_Day14", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day15 {
+            get {
+                return ResourceManager.GetString("Input_Day15", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day16 {
+            get {
+                return ResourceManager.GetString("Input_Day16", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day17 {
+            get {
+                return ResourceManager.GetString("Input_Day17", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day18 {
+            get {
+                return ResourceManager.GetString("Input_Day18", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day19 {
+            get {
+                return ResourceManager.GetString("Input_Day19", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day20 {
+            get {
+                return ResourceManager.GetString("Input_Day20", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day21 {
+            get {
+                return ResourceManager.GetString("Input_Day21", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day22 {
+            get {
+                return ResourceManager.GetString("Input_Day22", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day23 {
+            get {
+                return ResourceManager.GetString("Input_Day23", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day24 {
+            get {
+                return ResourceManager.GetString("Input_Day24", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Input_Day25 {
+            get {
+                return ResourceManager.GetString("Input_Day25", resourceCulture);
             }
         }
     }
