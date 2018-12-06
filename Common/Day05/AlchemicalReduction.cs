@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Common.Day05 {
 	public class AlchemicalReduction {
-		private string startingPolymer;
+		private readonly string startingPolymer;
 
 		public AlchemicalReduction() {
 			// The input is simply a string, so this can be read in directly.
