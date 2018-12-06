@@ -51,9 +51,9 @@ namespace Common.Day06 {
 			// best.
 			int[,] closest = new int[width, height];
 			// Is there a smoother way of assigning everything to -1?
-			Enumerable.Range(0, height * width).AsParallel().ForAll(z => {
+			for (int z = 0; z < width * height; ++z) {
 				closest[z % width, z / width] = -1;
-			});
+			}
 
 			// Iterate through every possible tile, and find which coord is the closest. If it's a
 			// tie, don't count it.
@@ -86,7 +86,7 @@ namespace Common.Day06 {
 			// Now go over the border and note those tiles as infinitely stretching out.
 			// Since we want the largest area, let's set these to int.MinValue so we don't have to
 			// deal with them.
-			Enumerable.Range(0, height * width).ToList().ForEach(z => {
+			Enumerable.Range(0, height * width).AsParallel().ForAll(z => {
 				int x = z % width;
 				int y = z / width;
 				var coord = new Tuple<int, int>(x, y);
