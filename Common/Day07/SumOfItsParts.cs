@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Common.Day07 {
 	/// <summary>
-	/// The main class for the day 2 challenge.
+	/// The main class for the day 7 challenge.
 	/// </summary>
 	public class SumOfItsParts {
 		private List<StepOrder> stepOrderings;
