@@ -9,14 +9,14 @@ namespace Common.Day09 {
 	/// The main class for the day 9 challenge.
 	/// </summary>
 	public class MarbleMania {
-		private int numPlayers;
-		private int lastMarblePoints;
+		private readonly int numPlayers;
+		private readonly int lastMarblePoints;
 
 		public MarbleMania() {
 			// The input is simply two integers encoded in a string, so that can be easily grabbed
 			// out.
 			string input = Resources.Input_Day09;
-			var splitString = input.Split(' ');
+			string[] splitString = input.Split(' ');
 			numPlayers = int.Parse(splitString[0]);
 			lastMarblePoints = int.Parse(splitString[6]);
 		}
