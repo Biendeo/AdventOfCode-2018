@@ -273,7 +273,57 @@ namespace Common.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 305, 349
+        ///315, 193
+        ///154, 62
+        ///246, 310
+        ///145, 283
+        ///260, 324
+        ///342, 79
+        ///321, 353
+        ///40, 242
+        ///351, 353
+        ///337, 297
+        ///174, 194
+        ///251, 160
+        ///314, 195
+        ///114, 81
+        ///204, 246
+        ///203, 169
+        ///203, 296
+        ///60, 276
+        ///201, 47
+        ///206, 96
+        ///243, 46
+        ///295, 304
+        ///319, 80
+        ///213, 330
+        ///337, 255
+        ///40, 262
+        ///302, 150
+        ///147, 349
+        ///317, 240
+        ///96, 315
+        ///133, 305
+        ///320, 348
+        ///210, 300
+        ///266, 216
+        ///223, 319
+        ///207, 152
+        ///127, 214
+        ///312, 245
+        ///49, 329
+        ///211, 84
+        ///129, 276
+        ///247, 143
+        ///208, 235
+        ///271, 126
+        ///124, 211
+        ///144, 184
+        ///54, 88
+        ///354, 300
+        ///148, 85
+        ///.
         /// </summary>
         public static string Input_Day06 {
             get {
@@ -282,7 +332,17 @@ namespace Common.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Step F must be finished before step N can begin.
+        ///Step V must be finished before step Y can begin.
+        ///Step B must be finished before step W can begin.
+        ///Step K must be finished before step O can begin.
+        ///Step E must be finished before step H can begin.
+        ///Step A must be finished before step P can begin.
+        ///Step Y must be finished before step S can begin.
+        ///Step T must be finished before step L can begin.
+        ///Step G must be finished before step R can begin.
+        ///Step I must be finished before step H can begin.
+        ///Step X must  [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Input_Day07 {
             get {
@@ -291,7 +351,7 @@ namespace Common.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 7 11 6 2 5 4 3 4 1 8 0 6 8 3 1 3 1 8 1 3 1 3 2 3 1 2 1 9 0 9 2 5 6 1 6 4 2 9 1 2 3 2 2 1 3 1 3 1 1 8 0 9 9 6 5 6 8 3 2 1 5 2 1 1 1 1 2 1 1 1 4 5 2 3 4 1 9 0 9 6 1 4 6 1 2 8 8 5 1 1 2 1 1 1 3 1 2 1 7 0 11 2 7 5 1 1 1 1 9 5 4 8 1 1 3 2 2 2 2 1 6 0 9 1 8 8 6 9 9 7 1 1 3 1 2 2 1 1 3 3 1 3 3 7 1 8 0 7 1 8 5 7 4 1 1 2 1 1 3 3 1 2 2 1 6 0 11 3 7 5 9 3 1 8 9 8 1 1 1 1 2 1 2 1 1 9 0 6 1 3 7 4 1 6 1 1 3 1 1 3 2 1 1 1 1 1 5 3 3 1 3 6 1 8 0 6 2 5 6 1 6 3 2 1 1 3 3 1 2 3 1 7 0 9 6 3 6 4 1 5 4 3 9 1 1 1 3 2 1 3 1 5 0 10  [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Input_Day08 {
             get {
@@ -300,7 +360,8 @@ namespace Common.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 468 players; last marble is worth 71010 points
+        ///.
         /// </summary>
         public static string Input_Day09 {
             get {
@@ -309,7 +370,18 @@ namespace Common.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to position=&lt;-20515,  20790&gt; velocity=&lt; 2, -2&gt;
+        ///position=&lt; 10476,  31130&gt; velocity=&lt;-1, -3&gt;
+        ///position=&lt; 51833,  41457&gt; velocity=&lt;-5, -4&gt;
+        ///position=&lt; 51808, -30871&gt; velocity=&lt;-5,  3&gt;
+        ///position=&lt; 20845,  41465&gt; velocity=&lt;-2, -4&gt;
+        ///position=&lt;-30848, -10200&gt; velocity=&lt; 3,  1&gt;
+        ///position=&lt; 31159, -20533&gt; velocity=&lt;-3,  2&gt;
+        ///position=&lt; 10497,  41464&gt; velocity=&lt;-1, -4&gt;
+        ///position=&lt;-51511, -10200&gt; velocity=&lt; 5,  1&gt;
+        ///position=&lt;-41170, -20542&gt; velocity=&lt; 4,  2&gt;
+        ///position=&lt; 10463, -41204&gt; velocity=&lt;-1,  4&gt;
+        ///position=&lt;-30867, [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Input_Day10 {
             get {
@@ -318,7 +390,8 @@ namespace Common.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 5535
+        ///.
         /// </summary>
         public static string Input_Day11 {
             get {
