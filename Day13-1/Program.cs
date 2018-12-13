@@ -1,12 +1,11 @@
-// using Common.Day13;
+using Common.Day13;
 using System;
 
 namespace Day13_1 {
 	class Program {
 		static void Main(string[] args) {
-			// Uncomment when task done.
-			// var aoc = new Something();
-			// Console.WriteLine(aoc.Part1());
+			var aoc = new MineCartMadness();
+			Console.WriteLine(aoc.Part1());
 		}
 	}
 }

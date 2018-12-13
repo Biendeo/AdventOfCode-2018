@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Day13\" />
     <Folder Include="Day14\" />
     <Folder Include="Day15\" />
     <Folder Include="Day16\" />
